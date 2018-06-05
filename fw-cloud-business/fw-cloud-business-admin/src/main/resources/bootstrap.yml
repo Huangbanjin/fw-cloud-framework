@@ -29,7 +29,7 @@ business:
     enabled: true
 fw:
   jwt:
-    jwtkey: jwt:token:berger
+    jwtkey: jwt:token:liuweijw
 ---
 spring:
   profiles: untest

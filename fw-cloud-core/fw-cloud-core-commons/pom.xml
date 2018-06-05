@@ -11,7 +11,7 @@
     <parent>
     	<groupId>com.github.liuweijw</groupId>
         <artifactId>fw-cloud-core</artifactId>
-        <version>${fw.core.version}</version>
+        <version>1.0.4-SNAPSHOT</version>
     </parent>
 
 	<dependencies>
