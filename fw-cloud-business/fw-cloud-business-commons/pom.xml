@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>fw-cloud-business-commons</artifactId>
+    <version>1.0.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
     <name>fw-cloud-business-commons</name>
@@ -11,14 +12,14 @@
     <parent>
     	<groupId>com.github.liuweijw</groupId>
         <artifactId>fw-cloud-business</artifactId>
-        <version>${fw.business.version}</version>
+        <version>1.0.4-SNAPSHOT</version>
     </parent>
 
 	<dependencies>
 		<dependency>
 			<groupId>com.github.liuweijw</groupId>
             <artifactId>fw-cloud-core-commons</artifactId>
-            <version>${fw.core.version}</version>
+            <version>1.0.4-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-wechat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core/fw-cloud-core-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core/fw-cloud-core-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core/fw-cloud-core-configuration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core/fw-cloud-core-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-core/fw-cloud-core-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-monitor/fw-cloud-monitor-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-monitor/fw-cloud-monitor-zipkin-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system/fw-cloud-system-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system/fw-cloud-system-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system/fw-cloud-system-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system/fw-cloud-system-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fw-cloud-system/fw-cloud-system-gateway" charset="UTF-8" />
+  </component>
+</project>

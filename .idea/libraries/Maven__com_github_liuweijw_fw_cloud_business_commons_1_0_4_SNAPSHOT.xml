@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.liuweijw:fw-cloud-business-commons:1.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://C:/repository/com/github/liuweijw/fw-cloud-business-commons/1.0.4-SNAPSHOT/fw-cloud-business-commons-1.0.4-20180531.154310-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-commons/fw-cloud-business-commons-1.0.4-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://C:/repository/com/github/liuweijw/fw-cloud-business-commons/1.0.4-SNAPSHOT/fw-cloud-business-commons-1.0.4-20180531.154310-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/fw-cloud-business/fw-cloud-business-commons/fw-cloud-business-commons-1.0.4-SNAPSHOT-sources.jar!/" />
+      <root url="jar://C:/repository/com/github/liuweijw/fw-cloud-business-commons/1.0.4-SNAPSHOT/fw-cloud-business-commons-1.0.4-20180531.154310-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

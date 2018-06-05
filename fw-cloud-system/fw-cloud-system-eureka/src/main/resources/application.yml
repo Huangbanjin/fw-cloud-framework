@@ -1,5 +1,5 @@
 server:
-  port: 1001
+  port: 8761
 
 spring:
   application:
@@ -19,8 +19,8 @@ security:
   basic:
     enabled: true
   user:
-    name: admin
-    password: liuweijw
+    name: root
+    password: 123456
 eureka:
   server:
     enable-self-preservation: false #Eureka自我保护机制以及心跳周期长会遇到 Eureka不剔除已关停的节点的问题，默认打开状态。建议生产环境打开此配置
@@ -32,8 +32,8 @@ security:
   basic:
     enabled: true
   user:
-    name: admin
-    password: liuweijw
+    name: root
+    password: 123456
 eureka:
   server:
     enable-self-preservation: false
@@ -45,5 +45,5 @@ security:
   basic:
     enabled: true
   user:
-    name: admin
-    password: liuweijw
+    name: root
+    password: 123456

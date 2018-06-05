@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fw-cloud-business-admin" />
+        <module name="fw-cloud-business-client" />
+        <module name="fw-cloud-business-commons" />
+        <module name="fw-cloud-business-pay" />
+        <module name="fw-cloud-business-sso" />
+        <module name="fw-cloud-business-wechat" />
+        <module name="fw-cloud-core-beans" />
+        <module name="fw-cloud-core-commons" />
+        <module name="fw-cloud-core-configuration" />
+        <module name="fw-cloud-core-exception" />
+        <module name="fw-cloud-core-utils" />
+        <module name="fw-cloud-monitor-monitor" />
+        <module name="fw-cloud-monitor-zipkin-db" />
+        <module name="fw-cloud-system-auth" />
+        <module name="fw-cloud-system-commons" />
+        <module name="fw-cloud-system-config" />
+        <module name="fw-cloud-system-eureka" />
+        <module name="fw-cloud-system-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fw-cloud-business" target="1.8" />
+      <module name="fw-cloud-business-admin" target="1.8" />
+      <module name="fw-cloud-business-client" target="1.8" />
+      <module name="fw-cloud-business-commons" target="1.8" />
+      <module name="fw-cloud-business-pay" target="1.8" />
+      <module name="fw-cloud-business-sso" target="1.8" />
+      <module name="fw-cloud-business-wechat" target="1.8" />
+      <module name="fw-cloud-core" target="1.8" />
+      <module name="fw-cloud-core-beans" target="1.8" />
+      <module name="fw-cloud-core-commons" target="1.8" />
+      <module name="fw-cloud-core-configuration" target="1.8" />
+      <module name="fw-cloud-core-exception" target="1.8" />
+      <module name="fw-cloud-core-utils" target="1.8" />
+      <module name="fw-cloud-framework" target="1.8" />
+      <module name="fw-cloud-monitor" target="1.8" />
+      <module name="fw-cloud-monitor-monitor" target="1.8" />
+      <module name="fw-cloud-monitor-zipkin-db" target="1.8" />
+      <module name="fw-cloud-system" target="1.8" />
+      <module name="fw-cloud-system-auth" target="1.8" />
+      <module name="fw-cloud-system-commons" target="1.8" />
+      <module name="fw-cloud-system-config" target="1.8" />
+      <module name="fw-cloud-system-eureka" target="1.8" />
+      <module name="fw-cloud-system-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

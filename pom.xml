@@ -88,10 +88,10 @@
         <spring-boot-admin-server-ui.version>1.5.7</spring-boot-admin-server-ui.version>
         <spring-boot-admin-server-ui-turbine.version>1.5.7</spring-boot-admin-server-ui-turbine.version>
         <fw.version>1.0.4-SNAPSHOT</fw.version>
-        <fw.system.version>${fw.version}</fw.system.version>
-        <fw.business.version>${fw.version}</fw.business.version>
-        <fw.core.version>${fw.version}</fw.core.version>
-        <fw.monitor.version>${fw.version}</fw.monitor.version>
+        <fw.system.version>1.0.4-SNAPSHOT</fw.system.version>
+        <fw.business.version>1.0.4-SNAPSHOT</fw.business.version>
+        <fw.core.version>1.0.4-SNAPSHOT</fw.core.version>
+        <fw.monitor.version>1.0.4-SNAPSHOT</fw.monitor.version>
     </properties>
 
 	<modules>
