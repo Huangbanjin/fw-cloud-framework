@@ -13,8 +13,6 @@ spring:
           uri: https://github.com/Huangbanjin/fw-cloud-framework-config.git # 配置git仓库的地址
           default-label: ${spring.profiles.active}
           search-paths:                                                  # git仓库地址下的相对地址，可以配置多个，用,分割。
-#        native:
-#          searchLocations: classpath:/shared							 # 本地环境配置
 ---
 spring:
   profiles: dev

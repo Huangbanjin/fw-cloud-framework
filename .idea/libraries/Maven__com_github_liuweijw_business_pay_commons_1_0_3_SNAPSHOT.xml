@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.github.liuweijw:business-pay-commons:1.0.3-SNAPSHOT">
     <CLASSES>
-      <root url="jar://C:/repository/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://C:/repository/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://C:/repository/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/liuweijw/business-pay-commons/1.0.3-SNAPSHOT/business-pay-commons-1.0.3-20180504.024311-1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
